@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=REM:wght@400;500;600;700;800&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+#text1{
+	font-size: 64px;
+	font-family: 'REM', sans-serif;
+	font-weight: 500;
+	margin-left: 15%;
+	margin-top: 10%;
+}
+#text2{
+	font-size: 126px;
+	font-family: 'REM', sans-serif;
+	font-weight: 700;
+	margin-left: 23%;
+	margin-top: 5%;
+}
+#text3{
+	font-size: 68px;
+	font-family: 'REM', sans-serif;
+	font-weight: 400;
+	margin-top: 10%;
+	text-align: center;
+}
+#text4{
+	font-size: 68px;
+	font-family: 'REM', sans-serif;
+	font-weight: 400;
+	margin-top: 1%;
+	text-align: center;
+}
+#icon{
+	font-size: 64px;
+	margin-left: 47%;
+	margin-top: 5%;
+}
+#container{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 5%;
+}
+#box1{
+	padding: 20px 85px 20px 85px;
+	border-radius: 35px;
+	border: solid black 1px;
+}
+#box1 h1{
+	font-size: 32px;
+	font-family: 'REM', sans-serif;
+	font-weight: 500;
+}
+#box2{
+	padding: 20px 85px 20px 85px;
+	border-radius: 35px;
+	border: solid black 1px;
+}
+#box2 h1{
+	font-size: 32px;
+	font-family: 'REM', sans-serif;
+	font-weight: 500;
+}
+#box3{
+	padding: 20px 85px 20px 85px;
+	border-radius: 35px;
+	border: solid black 1px;
+}
+#box3 h1{
+	font-size: 32px;
+	font-family: 'REM', sans-serif;
+	font-weight: 500;
+}
+#box4{
+	padding: 20px 85px 20px 85px;
+	border-radius: 35px;
+	border: solid black 1px;
+}
+#box4 h1{
+	font-size: 32px;
+	font-family: 'REM', sans-serif;
+	font-weight: 500;
+}
+#text10{
+	font-size: 68px;
+	font-family: 'REM', sans-serif;
+	font-weight: 400;
+	margin-top: 8%;
+	text-align: center;
+}
+#text11{
+	font-size: 40px;
+	font-family: 'REM', sans-serif;
+	font-weight: 400;
+	margin-top: 0.5%;
+	text-align: center;
+	color: gray;
+}
+#box6{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 7%;
+	height: 150px;
+}
+#text12{
+	font-size: 30px;
+	font-family: 'REM', sans-serif;
+	font-weight: 400;
+	margin-top: 5%;
+	margin-left: 5%;
+}
+#icons{
+	margin-right: 5%;
+	margin-top: 3%;
+}
+#iconsm{
+	font-size: 36px;
+	margin: 25px;
+}
